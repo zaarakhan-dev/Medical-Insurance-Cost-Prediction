@@ -2,6 +2,10 @@
 
 A Machine Learning web application built using **Python**, **Scikit-learn**, and **Streamlit** that predicts medical insurance charges based on personal and health-related information.
 
+## Live Demo
+
+https://medical-insurance-cost-predictionn.streamlit.app/
+
 ---
 
 ##  Project Overview
